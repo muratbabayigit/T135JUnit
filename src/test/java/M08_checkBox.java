@@ -34,7 +34,6 @@ public class M08_checkBox {
         driver.quit();
     }
 
-
     @Test
     public void checkBoxtest(){
         driver.get("https://www.amazon.com/gp/goldbox?ref_=nav_cs_gb");
